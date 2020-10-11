@@ -9,7 +9,7 @@ These notes are for the course [Facilitating Powerful Conversations (FPC) Level 
 I prefer to call it Human Systems, hence the title of this note.
 
 1. [Why things are](why-things-are-in-systems.md): why are things the way they are, and what causes scarcity?
-2. What things are: what are the patterns that we see?
+2. [What to intervene on](patterns-in-systems.md): patterns useful for diagnosis
 3. Where to intervene: containers
 4. How to intervene?
 5. Who intervenes: use of self / self-work
