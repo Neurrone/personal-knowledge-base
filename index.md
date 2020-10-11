@@ -8,6 +8,8 @@ Hi, and welcome to my personal knowledge base.
 
 This is an experiment in note taking with the Zettelkasten method.
 
-Other pages on this zettelkasten (this demonstrates how to use [link queries](https://neuron.zettel.page/link-query.html)):
+If you're curious, you can find the [source repository on GitHub](https://github.com/Neurrone/personal-knowledge-base).
+
+Other pages on this zettelkasten:
 
 [[[z:zettels?tag=index]]]
