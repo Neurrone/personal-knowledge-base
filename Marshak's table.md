@@ -10,4 +10,4 @@ This is from Marshak's work on covert processes.
     4. Things that are repressed and buried in the subconscious: deep fears and anxieties
     5. Untapped potential: things in the superconscious (positive aspects of the what people are unconscious of).
 
-Organizations will survive if most stuff is under the table. To thrive, this stuff needs to come onto the table, which will only happen when there is [[psychological safety]]
+Organizations will survive if most stuff is under the table. To thrive, this stuff needs to come onto the table, which will only happen when there is [[psychological-safety]]
