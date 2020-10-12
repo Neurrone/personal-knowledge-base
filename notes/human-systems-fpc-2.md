@@ -11,5 +11,5 @@ I prefer to call it Human Systems, hence the title of this note.
 1. [Why things are](why-things-are-in-systems.md): why are things the way they are, and what causes scarcity?
 2. [What to intervene on](patterns-in-systems.md): patterns useful for diagnosis
 3. [Where to intervene: containers](containers-in-systems.md)
-4. How to intervene?
+4. [How to intervene](intervening-in-systems.md)
 5. Who intervenes: use of self / self-work
