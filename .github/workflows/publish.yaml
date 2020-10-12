@@ -11,7 +11,6 @@ jobs:
     - uses: actions/checkout@v2
     - name: Download neuron
       run: |
-        cd notes
         curl --silent https://api.github.com/repos/srid/neuron/actions/artifacts \
           | jq 'first(.artifacts | .[] | select(.name == "neuron-bundle-linux") | .archive_download_url)' -r \
           | xargs curl -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" --silent -L -o neuron-bundle-linux.zip
@@ -20,7 +19,7 @@ jobs:
         ./neuron --version  # This extracts the bundle; should take a while
     - name: Build neuron site 🔧
       run: |
-        ./neuron -d $PWD rib
+        ./neuron -d $PWD/notes rib
     - name: Deploy to gh-pages 🚀
       uses: peaceiris/actions-gh-pages@v3
       with:
