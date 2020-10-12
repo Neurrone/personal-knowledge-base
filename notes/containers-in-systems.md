@@ -8,4 +8,9 @@ Setting up containers more intentionally helps to change the system. This is whe
 * Besides the observer, what is figural also depends on container.
 * Being consciously aware of the current container is important.
 
+Containers do not exist unless spoken into being through a declaration or a promise.
+
 1. [types-of-containers](types-of-containers-in-systems.md)
+2. [[5-conversations-for-human-work]]
+3. [[containers-for-learning]]
+4. [[somatic-archetypes]]: different archetypes are needed for building different containers.

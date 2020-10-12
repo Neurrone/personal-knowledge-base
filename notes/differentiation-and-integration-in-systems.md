@@ -11,4 +11,4 @@ Consequences:
 
 In the worst case, not differentiating leads to a negative outcome for everyone instead of a positive outcome for a few. See [[abilenes-paradox]].
 
-Thanks @zephinzer for helping me make sense of this cognitively.
+Thanks [@zephinzer](https://github.com/zephinzer) for helping me make sense of this cognitively.

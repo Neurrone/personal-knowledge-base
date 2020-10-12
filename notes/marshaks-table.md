@@ -1,6 +1,8 @@
-# Under, On And Above The Table
+# Marshak's Table
 
 This is from Marshak's work on covert processes.
+
+Certain things are under, On And Above The Table in conversations.
 
 * *Overt*: this is what goes on the table for discussion because people in the organization assess it to be legitimate or acceptable. This depends on the individuals and the organization.
 * *Covert*: topics that can't be discussed openly are knocked off the table but do not go away. They continue to exist. The 5 places where covert processes manifest are:
