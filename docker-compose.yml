@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+  neuron:
+    container_name: neuron
+    image: sridca/neuron
+    command: neuron rib -ws 0.0.0.0:8080
+    environment:
+      - TZ=Asia/Singapore
+    ports:
+      - 8080:8080
+    restart: unless-stopped
+    volumes:
+      - ./:/notes
