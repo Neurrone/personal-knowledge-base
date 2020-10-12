@@ -1,3 +1,7 @@
+---
+tags: [stub]
+---
+
 # Paradoxical Theory of Change
 
 > change occurs when one becomes what he is, not when he tries to become what he is not
