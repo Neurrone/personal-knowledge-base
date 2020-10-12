@@ -1,6 +1,6 @@
 {
     // Avoid having to explicitly save notes
-    "files.autoSave": "afterDelay",
+    // "files.autoSave": "afterDelay",
     
     // Minimap is not useful for Markdown notes
     "editor.minimap.enabled": false,
@@ -20,7 +20,11 @@
         "Intrapersonal",
         "Marshak's",
         "Retroflection",
+        "TLDR",
         "Zettelkasten",
+        "abilenes",
+        "sridca",
+        "zephinzer",
         "zettels"
     ]
     
