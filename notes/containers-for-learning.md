@@ -18,7 +18,7 @@ In my FPC 2 cohort, we did not form PSL groups. This made it very difficult to k
 
 ## A Note On Learning Groups
 
-From Tong Yee:
+From Tong Yee to a past FPC 2 cohort:
 
 Just want to define a few things as people have been asking me about PSLs and how to read up on them etc...
 (Please feel free to copy this into your own cohort chats if you find the distinctions helpful)
