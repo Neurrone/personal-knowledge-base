@@ -1,10 +1,16 @@
+---
+tags: [stub]
+---
+
 # Cycle of Experience
 
 In Gestalt theory, stress and problems with human functioning happen when people get stuck in the various stages, unable to complete their cycle of experience.
 
-This appears to also be called the needs satisfaction cycle.
+A unit of work is a complete experience such as the completion of a task, resolution of a problem or a learning experience. When there is an incomplete unit of work, there is resistance somewhere along this cycle of experience that prevents the unit of work from completing. Energy is released and available for other units of work only when the cycle of experience is complete. TLDR: taking care of unfinished business.
 
-![The Cycle of Experience, described below](static/cycle of experience.JPG)
+This appears to be related to the needs satisfaction cycle, but with slightly different terminology.
+
+![The Cycle of Experience described below](./static/cycle-of-experience.jpg)
 
 1. *Sensation*: something figural happens that disturbs the individual from the steady state
     * Desensitization: a resistance between sensation and awareness that prevents the observer from being consciously aware of need
