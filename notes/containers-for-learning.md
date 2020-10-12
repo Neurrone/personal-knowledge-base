@@ -7,10 +7,10 @@ tags: [stub]
 These containers are where the [[5-conversations-for-human-work]] take place.
 
 * *Action Learning Group (ALG)*: a space for aspirational and developmental conversations. In FPC 2, this was simulated using groups of 3 - 4.
-* Total Learning Community (TLC)*: a space where participants come together for dialog and experiential learning. In FPC 2, this was a dialog involving the whole cohort.
+* *Total Learning Community (TLC)*: a space where participants come together for dialog and experiential learning. In FPC 2, this was a dialog involving the whole cohort.
 * *Work*: containers where work takes place.
 * *Personal Service Learning (PSL)*: where people find safety, belonging and healing (if the group is sufficiently skilled).
-* *Informal containers*: typically where conversations involving power and politics take place
+* Informal containers: typically where conversations involving power and politics take place
 
 Deliberately setting aside containers for such conversations allow issues to be set aside and discussed in the appropriate container when they arise, instead of having to be addressed immediately.
 
