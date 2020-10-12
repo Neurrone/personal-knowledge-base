@@ -12,5 +12,5 @@ There are 2 types of resources:
 
 ## Examples
 
-1. Abundance was present first in the book of Genesis. The serpent introduced introduced the idea of there being fruit that isn't available (scarcity). This now introduces choice which is powerful in abundance, but ugly in scarcity.
+1. Abundance was present first in the book of Genesis. The serpent introduced introduced the idea of there being fruit that isn't available (scarcity). This now introduces *choice which is powerful in abundance, but ugly in scarcity*.
 2. The human body
