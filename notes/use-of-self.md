@@ -1,6 +1,6 @@
 # Use Of Self
 
-> A single person can change the system if only they are aware of what they're doing with themselves.
+> A single person can change the system only if they are aware of what they're doing with themselves.
 
 1. Managing debt:
     > When the intervener is in survival, the intervener cannot see
