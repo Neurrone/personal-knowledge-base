@@ -51,8 +51,8 @@ With the [[be-do-have]], the 8 powers can be plotted on a venn diagram with 3 co
 
 * Have: legitimate, information and expert power are what you own.
 * Be ∩ Do: practicing what you preach, moral power
-* Be ∩ Have: referent and reward power
-* Do ∩ Have: I can only give because I own (reward power)
+* Be ∩ Have: referent power
+* Do ∩ Have: reward power - I can only give because I own
 * Do: coercive
 * Be: charismatic
 
@@ -61,6 +61,8 @@ With the [[be-do-have]], the 8 powers can be plotted on a venn diagram with 3 co
 Each person is biased about which power they respond to. For instance, a new director joining with little experience in the industry vs an assistant manager that has 25 years in the industry. Who would you assign more power to?
 
 Asians are biased towards using old power, since that is what they are shown as children. Legitimate and coercive power are the most commonly used in Asian parenting.
+
+The takeaway here is to develop new forms of power for ourselves.
 
 ## Alternative Paths To Success
 

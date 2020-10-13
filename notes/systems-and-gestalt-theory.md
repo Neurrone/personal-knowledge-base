@@ -18,4 +18,4 @@ Takes an opposite approach to system theory in many ways.
 
 > We are not agents of change: we are agents of awareness
 
-Gestalt therapists believe that change should come from the individual, and that their role is to provide awareness.
+Gestalt practitioners believe that change should come from the individual, and that their role is to provide awareness.

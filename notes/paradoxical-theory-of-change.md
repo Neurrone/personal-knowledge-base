@@ -6,7 +6,7 @@ tags: [stub]
 
 > change occurs when one becomes what he is, not when he tries to become what he is not
 
-The Gestalt therapist believes that they are agents of awareness, not change.
+The Gestalt practitioner believes that they are agents of awareness, not change.
 
 TODO: investigate this further, for better understanding
 

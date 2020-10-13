@@ -18,13 +18,13 @@ There're 2 ways that conversations could go:
 
 1. Aspiration -> work -> safety -> healing
 2. Aspiration -> work -> safety -> power and politics -> back to aspiration
-    * When there is safety, there is a tendency to not want to proceed with healing, which always has pain. Also requires skill in the system.
+    * When there is safety, there is a tendency to not want to proceed with healing, which always comes with pain. Also requires skill in the system.
 
 Examples:
 
 * A child is not doing homework because the conversation to set up an aspiration that the child then owns is missing. Often, parents proceed to talk about work, skipping the aspiration conversation entirely.
     
-    This is equally applicable in the work setting.
+    This is equally applicable in the work setting - systems are dysfunctional because of lack of aspiration conversations, not due to the work being done. Some things could be assumed, not agreed on.
 * Racial politics and Trump's election campaign are examples of what happens when after safety, healing is not done and there's a desire to redefine aspirations.
 
 Intervening in these factors is done through the appropriate container.
