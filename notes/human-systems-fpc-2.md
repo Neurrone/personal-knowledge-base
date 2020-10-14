@@ -22,5 +22,5 @@ While the literature on intrapersonal models are in agreement, Systems work is s
 
 Misc notes that don't fit in anywhere else:
 
-* Shadow systems are non-legitimate systems set up to gain power. E.g the gatekeepers, the pyramid club. Whether they are good or bad is down to intention
+* Shadow systems are non-legitimate systems set up to gain power. E.g The Gatekeepers, the Pyramid Club. Whether they are good or bad is down to intention
 * [[fpc2-odds-and-ends]]: mostly personal reflections that don't fit anywhere else

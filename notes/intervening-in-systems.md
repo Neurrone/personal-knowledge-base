@@ -9,7 +9,8 @@ We intervene to avert an expected future scenario. Try to intervene from a space
 5. [[cycle-of-experience]]: this is not just a diagnostic tool. It is also a tool for intervention.
     
     Resistances are not always negative, they can also be interventions. To end sexual harassment, use introjection. To improve mental health, use desensitization and ignore the news.
-6. Using the 6 [[speech-acts]]
+6. [[checklist-for-intervention]]
+7. Using the 6 [[speech-acts]]
 
 ## Evoke-Provoke Spectrum
 
@@ -25,7 +26,7 @@ Systems tend towards provocation to move fast.
 * *When intervening, always do so with intentionality.*
     
     Even if there is nothing to say, *there is also value in remaining silent to hold the space with your presence.*
-* Intentionality also determines ethics.
+* Intention determines ethics.
 * In clean interventions, we are not agents of change. We are agents of awareness so that there is always choice.
 * Avoid euphemisms. Ambiguity leads to room for interpretation.
 * Timeline for interventions are short. If you take too long, you become the unit of work.

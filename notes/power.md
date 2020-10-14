@@ -36,7 +36,7 @@ These forms of power are needed for leading and managing systems and to build sy
 
 New forms of power arising after the 1990s. Old forms of power diminish when affluence and knowledge increase. E.g, how the internet diminishes the influence of expert power.
 
-1. *Referent*: whether I I can relate to you. Vulnerability allows leaders to be more relatable. E.g, Me Too movement.
+1. *Referent*: whether I can relate to you. Vulnerability allows leaders to be more relatable. E.g, Me Too movement.
     
     Can be polarizing or fragmentary because some people will not be able to relate. E.g, people who are alienated because they cannot relate to the Me Too movement.
 2. *Information*: expert power is tied to experience and knowledge. Information power is tied to information and understanding of context. People who are in the grape vine have information power.
