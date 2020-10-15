@@ -10,8 +10,8 @@
     
     An example from FPC 2: "Does anyone have any concerns at all?", followed by taking a step back and sitting down to allow space for resistance.
 6. *Deliver the intervention*
-7. *Manage power*
-8. *Maintain presence, trust, resilience*
+7. *Manage [[power]]*
+8. *Maintain presence, [[trust]] and resilience*
 
 The first 5 items are about setting the container.
 

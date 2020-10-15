@@ -1,4 +1,4 @@
-# FPC2 Odds And Ends
+# FPC2 Reflections
 
 Personal reflections and other misc odds and ends that don't fit anywhere else.
 
@@ -13,7 +13,7 @@ This is stuff I understand from seeing first-hand or takeaways from my own exper
 * Learning to tap into intuition.
 * I noticed an unspoken cultural norm that you must always have an answer. A valid response (assuming the prerequisite safety is present) is also "I don't know, but I'm willing to learn how".
 
-## What Next After FPC 2?
+## What Next?
 
 I started to be preoccupied with the question about what next on the second last day of the course.
 
