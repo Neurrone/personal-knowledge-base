@@ -30,7 +30,11 @@ This appears to be related to the needs satisfaction cycle, but it uses slightly
 
 ## Resistances Are Not Always Negative
 
-Resistances can also be interventions. To end sexual harassment, use introjection.
+Resistances can also be a form of intervention. To end sexual harassment, use introjection.
+
+Some amount of resistances is also normal and healthy. We would be overwhelmed without resistances which prevents us from being able to process too many units of work simultaneously. It is also a critical mechanism for survival and well-being.
+
+---
 
 TODO: fill in the blanks
 
