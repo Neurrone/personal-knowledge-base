@@ -1,6 +1,6 @@
 # Trust
 
-Distinctions live in language which is uniquely human. Distinctions create tribes. Trust is the phenomenon that shows us we're part of the same tribe.
+Distinctions live in language. Language is unique to humans. Distinctions create tribes. Trust is the phenomenon that shows us we're part of the same tribe.
 
 The 4 levels of trust are:
 
@@ -22,7 +22,8 @@ Examples:
     3. Reliability: "What are your plans for the next few years?"
     4. Care: further questions to see if you identify with the other person
 * Bad salespeople try to sell you something and might do so by disguising their intentions (lack of sincerity) or even when they are sincere, they focus on closing that sale (lack of care for what you need).
+* How Tong Yee builds the container at the start of each course / workshop - he is very intentional about addressing each of these 4 aspects of trust.
 
 ---
 
-Most of this explanation comes from Language and the Pursuit of Leadership Excellence.
+Some of this explanation comes from Language and the Pursuit of Leadership Excellence.

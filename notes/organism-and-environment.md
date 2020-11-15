@@ -29,10 +29,12 @@ In this analogy, Humans want to be the lion to avoid being eaten but they are un
 
 People feel safer when there is more information in the environment (related to vulnerability). When someone is angry but it is left unsaid, threat goes up.
 
-Before going into higher order work (emotions and relationships need to be taken care of first before learning), your primitive brain need to be taken care of first.
+Before going into higher order work (emotions and relationships need to be taken care of first before learning), your primitive brain needs to be taken care of first.
 
 ## 3 Types of Environment
 
 1. *Spacial environment*: seating arrangements, building layout etc. Asking 7 people to sit in an inner circle while everyone else forms an outer circle to observe them already causes members of the inner circle to feel unsafe. Other examples: financial environments, organization charts (who gets to talk to who).
 2. *Linguistic environment*: how we judge and assess one another. E.g, culture, policies, what is allowable or not.
-3. *Material environment*: material resource e.g food, sleep, exercise, salary. When these things are not taken care of, it causes people to feel unsafe.
+    
+    There are many things we could observe linguistically that could make us feel unsafe, but they boil down to these [[linguistic-behaviours-from-lack-of-psychological-safety]]. These behaviours show up when people feel unsafe, which causes a new observer to feel unsafe as well.
+3. *Material environment*: material resource e.g food, sleep, exercise, salary. When these things are not taken care of, it causes people to feel unsafe. Singapore is obsessed with this and is very good at it.

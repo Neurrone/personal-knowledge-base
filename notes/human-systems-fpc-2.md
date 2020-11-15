@@ -6,7 +6,7 @@ tags: [index]
 
 > The natural state of systems is decay.
 
-These notes are from the course [Facilitating Powerful Conversations (FPC) Level 2](https://thethoughtcollective.com.sg/class_details/FACILITATING_POWERFUL_CONVERSATIONS_LEVEL_2) by The Thought Collective taken on 5 - 9 Oct 2020. I prefer using the title Human Systems for this.
+These notes are from the course [Facilitating Powerful Conversations (FPC) Level 2 by The Thought Collective](https://thethoughtcollective.com.sg/class_details/FACILITATING_POWERFUL_CONVERSATIONS_LEVEL_2) taken on 5 - 9 Oct 2020. I prefer using the title Human Systems for this.
 
 FPC 2 is a highly experiential course which distills the learning from the [iGOLD program](https://www.gestaltod.org/programs/igold-program/about-the-igold-program/). It builds up from FPC level 1 which focuses on self awareness and discovery. A system is a group of individuals that come together for a common purpose. The main focus in FPC 2 is how to intervene at the system level, which requires understanding the unit of a system: the individual.
 
