@@ -7,9 +7,9 @@
 Interventions should restore abundance to the system. This requires that the intervener is also in a state of abundance to be able to give, only possible by managing the following types of debt:
 
 * *Somatic debt*: sleep, exercise, diet, ritual.
-* *Emotional debt*: emotional moods affect our adaptability when we know longer experience a wide range of emotions, but a predictable response to similar situations.
+* *Emotional debt*: moods affect our adaptability when we know longer experience a wide range of [[emotions]], but a predictable response to similar situations.
     
-    The easiest way of dealing with this is to adopt indifference, apathy and cynicism as temporary coping mechanisms. Since they only stop emotional spending and don't restore reserves, they can bring barrenness to a system if they become permanent.
+    The easiest way of dealing with this is to adopt [temporary coping mechanisms](coping-and-deplay-emotions.md). Since they only stop emotional spending and don't restore reserves, they can bring barrenness to a system if they become permanent.
     
     * Attend to past trauma, as it very likely affects how you see.
     * Make it a habitual choice to forgive, trust and accept which reduces strong moods of anger, fear and sadness respectively.
