@@ -21,7 +21,7 @@ This appears to be related to the needs satisfaction cycle, but it uses slightly
 3. Mobilization of energy:
     * Introjection
 4. Action
-    * Projection: projecting onto other people, freeing the individual from the responsibility to act
+    * Projection: this is where you get others to engage in units of work that you yourself have not completed. For example, the regret from not expressing your feelings for a loved one who passed away causes you to nag others to do so for their own loved ones.
 5. Contact
     * Retroflection
 6. Satisfaction
@@ -30,7 +30,7 @@ This appears to be related to the needs satisfaction cycle, but it uses slightly
 
 ## Resistances Are Not Always Negative
 
-Resistances can also be a form of intervention. To end sexual harassment, use introjection.
+Resistances can also be a form of intervention. To end sexual harassment, the potential perpetrator should use introjection to curb the impulse.
 
 Some amount of resistances is also normal and healthy. We would be overwhelmed without resistances which prevents us from being able to process too many units of work simultaneously. It is also a critical mechanism for survival and well-being.
 

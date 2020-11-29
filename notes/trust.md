@@ -15,7 +15,7 @@ Each of these aspects of trust is an assessment we make of the other person. If 
 
 Examples:
 
-* The levels are sequential, which shows up naturally in the course of an interview.
+* The levels are sequential, which shows up naturally in the course of an interview. Starting off with sincerity, the other pillars of trust are established.
     
     1. Sincerity: starting the interview with a question like "Tell us about yourself and why you're here".
     2. Competence: "You mentioned doing xyz in your resume. Could you tell us more about that?"
