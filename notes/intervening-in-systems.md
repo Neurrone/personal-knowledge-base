@@ -7,8 +7,6 @@ We intervene to avert an expected future scenario. Try to intervene from a space
 3. [[power]] with [[trust]] is the foundation of all intervention.
 4. [[roles-of-the-gestalt-intervener]]: clarity and range in intervention depends on self work.
 5. [[cycle-of-experience]]: this is not just a diagnostic tool. It is also a tool for intervention.
-    
-    Resistances are not always negative, they can also be interventions. To end sexual harassment, use introjection. To improve mental health, use desensitization and ignore the news.
 6. [[checklist-for-intervention]]
 7. Using the 6 [[speech-acts]]
 
