@@ -20,11 +20,9 @@ However, this becomes a mood if left unchecked for too long.
 
 Confusion in this context is not referring to genuine confusion.
 
-Sometimes a person says they are confused and don't know what to do, but they have actually already decided on what to do and then choose to consciously not recall that decision. You may also get the feeling that they already know what to do but for whatever reason, they say they're confused.
-
-This person will not be convinced when receiving advice contrary to what they already decided and will keep going around asking for advice until they receive advice that aligns with what they want to do in the first place.
-
-Now, the responsibility of that decision is no longer theirs and is instead pushed to the person which provided that advice.
+1. Sometimes a person says they are confused and don't know what to do, but they have actually already decided on what to do and then choose to consciously not recall that decision. You may also get the feeling that they already know what to do but for whatever reason, they say they're confused.
+2. This person will not be convinced when receiving advice contrary to what they already decided and will keep going around asking for advice until they receive advice that aligns with what they want to do in the first place.
+3. Therefore, the responsibility of that decision is no longer theirs and is instead pushed to the person which provided that advice.
 
 In other words, confusion happens when someone is not ready to step into an identity.
 
