@@ -1,9 +1,9 @@
----
-tags: [stub]
----
-
 # Speech Acts
 
-assertions, assessments, declarations, offers, promises and requests
+Everything that we do in [[language]] falls into one of these 6 speech acts:
 
-TODO: fill this in with existing notes from Language And The Pursuit Of Happiness
+1. [[assertions]]
+2. [[assessments]]
+3. [[declarations]]
+4. [[requests-and-offers]]
+5. [[promises]]

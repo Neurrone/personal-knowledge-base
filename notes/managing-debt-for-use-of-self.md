@@ -12,8 +12,8 @@ Interventions should restore abundance to the system. This requires that the int
     The easiest way of dealing with this is to adopt [temporary coping mechanisms](coping-and-deplay-emotions.md). Since they only stop emotional spending and don't restore reserves, they can bring barrenness to a system if they become permanent.
     
     * Attend to past trauma, as it very likely affects how you see.
-    * Make it a habitual choice to forgive, trust and accept which reduces strong moods of anger, fear and sadness respectively.
-* *Language*: pay attention to your your linguistic experience and how you describe and assess the world. How you describe work, relationships or anything else shapes the experience and how much perceived debt you're in.
+    * Make it a habitual choice to [forgive](forgiveness.md), [[trust]] and accept which reduces strong moods of anger, fear and sadness respectively.
+* *Language*: pay attention to your [linguistic experience](language.md) and how you describe and assess the world. How you describe work, relationships or anything else shapes the experience and how much perceived debt you're in.
     
     > Optimism or a belief in pronoia, are powerful linguistic interventions into our own psyche and sense of provision. Actively offering, requesting and declaring also can dramatically change our experience of abundance in the world.
 
