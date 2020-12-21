@@ -15,3 +15,15 @@ Certain things are under, On And Above The Table in conversations.
 Organizations will survive if most stuff is under the table. Things under the table are never seen but the system can only respond to what it sees. To thrive, this stuff needs to come onto the table.
 
 Marshak thought there were multiple prerequisites for stuff to come onto the table. It turns out that everything boils down to one thing: [[psychological-safety]].
+
+When intervening, be intentional about what you put onto the table. Does it help the organization to perform better, or why are you doing so?
+
+## Questions For Reflection
+
+* What is on the table in your organization / team?
+* What is under the table and why?
+* What is above the table and why?
+
+---
+
+See [this video](https://www.youtube.com/watch?v=76tllNnzuOc) for an introduction to this topic.
