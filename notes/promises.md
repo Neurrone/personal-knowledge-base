@@ -2,6 +2,8 @@
 
 The fabric of society and the economy is held together by promises (AKA agreements or commitments) between individuals and organizations. E.g, an employer promising to pay someone for work done.
 
+The [effectiveness of the request](requests-and-offers.md) affects how clear both parties are about what exactly has been promised. Ineffective requests could cause both parties to have different interpretations about what exactly has been promised.
+
 Promises change the world the instant they are made, not just by their fulfillment. The other person makes different choices because of the promise. Language communicates commitment, not just information.
 
 When keeping or breaking a promise, it affects:

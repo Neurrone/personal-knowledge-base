@@ -15,7 +15,7 @@ An assessment is a speech act where the speaker defines how he/she relates to th
     The room is spacious or cramped is an assessment that belongs to each individual observer, and not to the thing being observed. Whether a room is cramped or spacious depends on who's looking.
 * Assessments have everything to do with the future, and can be viewed as "stepping stones" toward the future. If you assess someone as unreliable and there is an opening for your team, you will not choose that person. The assessment of unreliable in the present influences the future choice to not select them.
 * Assessments are highly influenced by moods and emotions. You will react differently to missing your bus when you are joyful vs frustrated.
-* Socially, we are expected to have some grounds for making our assessments (see grounded assessments below) and are not just conjuring them from thin air.
+* Socially, we are expected to have some [grounds for making our assessments](#grounded-assessments) and are not just conjuring them from thin air.
 * We make assessments against standards which are often unspoken. E.g, Bob has been late 3 times leads to the assessment that Bob is unreliable, if the standard is say not being late more than twice. This assessment would affect whether Bob is chosen for a new team.
     
     There is a social aspect to assessments. We adopt many of these standards through our upbringing or the community, often without consciously choosing to do so.
